@@ -1,6 +1,6 @@
 # Smart Campus Dashboard — Defense & User Control
 
-###User control and securit monitoring dashboard Smart Campus Simulation Project using Raspberry Pi
+### User control and securit monitoring dashboard Smart Campus Simulation Project using Raspberry Pi
 
 A dual-dashboard IoT monitoring and security interface for a simulated smart campus, built with React + Vite. The system splits responsibilities into two independent views: a **Defense Dashboard** for cybersecurity/attack monitoring and a **User Dashboard** for physical sensor control across campus sectors.
 
